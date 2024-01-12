@@ -118,6 +118,5 @@ Clone the project
 
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+This Project is licensed under  [MIT](https://choosealicense.com/licenses/mit/)License
 
